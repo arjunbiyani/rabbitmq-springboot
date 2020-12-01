@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/rabbitmqapp.iml" filepath="$PROJECT_DIR$/rabbitmqapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/racko.iml" filepath="$PROJECT_DIR$/racko.iml" />
+    </modules>
+  </component>
+</project>
